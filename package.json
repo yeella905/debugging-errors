@@ -1,0 +1,19 @@
+{
+  "name": "debugging-errors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeella905/debugging-errors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeella905/debugging-errors/issues"
+  },
+  "homepage": "https://github.com/yeella905/debugging-errors#readme"
+}
